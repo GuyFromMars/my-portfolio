@@ -32,7 +32,7 @@ export default function Home() {
         <div className="grid grid-cols-5">
           <a
             target="_blank"
-            href="https://github.com/GuyFromMars?tab=repositories"
+            href="https://github.com/GuyFromMars"
             rel="noopener noreferrer"
           >
             <button

@@ -22,7 +22,26 @@ function ProjectList() {
       webstack: "HTML5, CSS3, PHP",
       wwwlink: "https://galopepetrol.com/",
       description:
-        "This is the official website of the Galope Petrol Ghana Limited.",
+        "This is the official website of Galope Petrol Ghana Limited.",
+    },
+    {
+      name: "Greenimee Ghana Limited",
+      webstack: "Next.js",
+      wwwlink: "https://greenimee.com",
+      description: "This is the official website of Greenimee Ghana Limited.",
+    },
+    {
+      name: "TampaCar Services",
+      webstack: "Next.js",
+      wwwlink: "https://tampacar.services",
+      description:
+        "This is the official website of TampaCar Services. Want a car? Do the booking and leave the rest to us.",
+    },
+    {
+      name: "Wise Wealth Solution",
+      webstack: "Next.js",
+      wwwlink: "https://wisewealthsolution.com",
+      description: "This is the official website of Wise Wealth Solution.",
     },
     {
       name: "My Portfolio",
