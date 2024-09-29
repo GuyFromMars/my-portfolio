@@ -5,7 +5,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <>
-      <div className="p-8 sm:p-16 ml-0 mt-4 sm:mt-0 sm:ml-64 min-h-screen bg-white dark:bg-gray-900">
+      <div className="p-8 sm:p-16 ml-0 mt-8 sm:mt-0 sm:ml-64 min-h-screen bg-white dark:bg-gray-900">
         <p className="text-4xl sm:text-5xl md:text-6xl text-gray-900 dark:text-white">
           Nunoo-Mensah{" "}
           <span className="text-gray-800 dark:text-white">Robert</span>
@@ -14,6 +14,7 @@ export default function Home() {
           HNo 3 Jupiter Street, Christian Village, Tema. || popezoi192@gmail.com
         </p>
         <br />
+
         <br />
         <p className="text-base sm:text-lg text-gray-700 dark:text-gray-300">
           I am a dedicated Web Application Developer with experience in building
@@ -27,6 +28,7 @@ export default function Home() {
           delivering feature-rich, user-friendly solutions.
         </p>
         <br />
+
         <div className="grid grid-cols-5">
           <a
             target="_blank"
