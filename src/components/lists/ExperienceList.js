@@ -29,7 +29,7 @@ function ExperienceList() {
       company: "Paper Cup Inc.",
       duration: "DEC. 2024 - MAY. 2025",
       description:
-        "As a Web Designer at Paper Cup Inc., I was responsible for designing and developing engaging, responsive websites that aligned with the company's brand identity and business objectives. I collaborated with cross-functional teams to create visually compelling layouts and user interfaces, ensuring an intuitive and seamless user experience. My role involved using front-end technologies such as HTML, CSS, and JavaScript to translate design concepts into functional websites. I also focused on optimizing website performance, improving accessibility, and maintaining consistency across various devices and platforms.",
+        "As a Web Developer at Paper Cup Inc., I was responsible for designing and developing engaging, responsive websites that aligned with the company's brand identity and business objectives. I collaborated with cross-functional teams to create visually compelling layouts and user interfaces, ensuring an intuitive and seamless user experience. My role involved using front-end technologies such as HTML, CSS, and JavaScript to translate design concepts into functional websites. I also focused on optimizing website performance, improving accessibility, and maintaining consistency across various devices and platforms.",
     },
   ];
   const expData = expList?.map((exp, key) => {
