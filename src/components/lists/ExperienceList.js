@@ -19,7 +19,7 @@ function ExperienceList() {
     },
     {
       role: "Javascript Developer",
-      company: "Kospiah Legacy",
+      company: "Kospiah Legacy LTD",
       duration: "SEPT. 2019 - SEPT. 2020",
       description:
         "As a Javascript Developer at Kospiah Legacy Limited, I focus on building and maintaining the server-side architecture that powers our applications. My role involves designing and implementing robust APIs, managing databases, and ensuring secure, efficient data flow between the server and client-side applications. I work primarily with technologies such as Node.js, Express, and MongoDB (or other databases) to build scalable solutions that meet the company's business needs. Additionally, I collaborate closely with the front-end team to integrate user-facing elements, optimize performance, and implement best practices for security and reliability in our applications.",
