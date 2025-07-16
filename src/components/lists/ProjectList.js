@@ -4,6 +4,26 @@ import React from "react";
 function ProjectList() {
   const proList = [
     {
+      name: "Feedbackpro",
+      webstack: "Firebase, NextJs",
+      wwwlink: "https://ffeedbackpro.vercel.app",
+      description:
+        "Create and share feedback forms instantly to connect with your customers, team or community."
+      },
+      {
+      name: "PLM-notes",
+      webstack: "Next.js",
+      wwwlink: "https://plm-notes.vercel.app/",
+      description: "This is a place to keep your notes and share with friends.",
+    },
+    {
+      name: "Consignment Tracking",
+      webstack: "Next.js",
+      wwwlink: "https://vianovalogistics.vercel.app/",
+      description:
+        "A simple package tracking and delivery update project.",
+    },
+    {
       name: "Todo List App",
       webstack: "Mongo, Express, React, NodeJs",
       wwwlink: "https://todo-app-henna-two.vercel.app/",
@@ -16,13 +36,6 @@ function ProjectList() {
       wwwlink: "https://pos-system-iota.vercel.app/",
       description:
         "My POS system webapp is a front end application built with React and works with the implementation of the redux toolkit and how data is stored, accessed and modified by different components of the app.",
-    },
-    {
-      name: "Consignment Tracking",
-      webstack: "Next.js",
-      wwwlink: "https://vianovalogistics.vercel.app/",
-      description:
-        "A simple package tracking and delivery update project.",
     },
     {
       name: "GalopePetrol Website",
@@ -49,12 +62,6 @@ function ProjectList() {
       webstack: "Next.js",
       wwwlink: "https://wisewealthsolution.com",
       description: "This is the official website of Wise Wealth Solution.",
-    },
-    {
-      name: "PLM-notes",
-      webstack: "Next.js",
-      wwwlink: "https://plm-notes.vercel.app/",
-      description: "This is a place to keep your notes and share with friends.",
     },
     {
       name: "My Portfolio",
