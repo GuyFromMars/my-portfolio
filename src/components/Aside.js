@@ -37,7 +37,7 @@ const Aside = () => {
               </button>
 
               <span className="self-center ml-1 text-xl font-semibold sm:text-2xl whitespace-nowrap dark:text-white">
-                My Portfolio
+                Robert's Portfolio
               </span>
             </div>
           </div>
