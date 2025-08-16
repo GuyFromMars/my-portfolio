@@ -14,14 +14,14 @@ function ProjectList() {
       name: "PLM-notes",
       webstack: "Next.js",
       wwwlink: "https://plm-notes.vercel.app/",
-      description: "This is a place to keep your notes and share with friends.",
+      description: "A web application for creating, storing, and sharing notes with friends. Built with Next.js, it offers a responsive, user-friendly interface for managing personal and collaborative notes. Features include note creation, editing, and sharing, with a focus on simplicity and performance.",
     },
     {
       name: "Consignment Tracking",
       webstack: "Next.js",
       wwwlink: "https://vianovalogistics.vercel.app/",
       description:
-        "A simple package tracking and delivery update project.",
+        "A web application for tracking packages and providing logistics solutions, built with Next.js. Features include real-time shipment tracking, a services overview (freight forwarding, supply chain management, international shipping), and a responsive UI. Focused on performance and SEO optimization using Next.js.",
     },
     {
       name: "Todo List App",
