@@ -350,6 +350,124 @@ function Skills() {
             </p>
           </span>
         </span>
+        <br />
+        <br />
+        <span>
+          <p className="text-lg sm:text-xl lg:text-2xl text-gray-500 dark:text-gray-500">
+            Soft Skills
+          </p>
+          <br />
+          <span className="flex">
+            <svg
+              className="w-[24px] h-[16px] text-gray-800 dark:text-white mt-1"
+              aria-hidden="true"
+              xmlns="http://www.w3.org/2000/svg"
+              width="24"
+              height="24"
+              fill="none"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke="currentColor"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="2"
+                d="M5 11.917 9.724 16.5 19 7.5"
+              />
+            </svg>
+            <p className="text-base sm:text-lg text-gray-700 dark:text-gray-300">
+              Teamwork
+            </p>
+          </span>
+          <span className="flex">
+            <svg
+              className="w-[24px] h-[16px] text-gray-800 dark:text-white mt-1"
+              aria-hidden="true"
+              xmlns="http://www.w3.org/2000/svg"
+              width="24"
+              height="24"
+              fill="none"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke="currentColor"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="2"
+                d="M5 11.917 9.724 16.5 19 7.5"
+              />
+            </svg>
+            <p className="text-base sm:text-lg text-gray-700 dark:text-gray-300">
+              Communication
+            </p>
+          </span>
+          <span className="flex">
+            <svg
+              className="w-[24px] h-[16px] text-gray-800 dark:text-white mt-1"
+              aria-hidden="true"
+              xmlns="http://www.w3.org/2000/svg"
+              width="24"
+              height="24"
+              fill="none"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke="currentColor"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="2"
+                d="M5 11.917 9.724 16.5 19 7.5"
+              />
+            </svg>
+            <p className="text-base sm:text-lg text-gray-700 dark:text-gray-300">
+              Problem-solving
+            </p>
+          </span>
+          <span className="flex">
+            <svg
+              className="w-[24px] h-[16px] text-gray-800 dark:text-white mt-1"
+              aria-hidden="true"
+              xmlns="http://www.w3.org/2000/svg"
+              width="24"
+              height="24"
+              fill="none"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke="currentColor"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="2"
+                d="M5 11.917 9.724 16.5 19 7.5"
+              />
+            </svg>
+            <p className="text-base sm:text-lg text-gray-700 dark:text-gray-300">
+              Adaptability
+            </p>
+          </span>
+          <span className="flex">
+            <svg
+              className="w-[24px] h-[16px] text-gray-800 dark:text-white mt-1"
+              aria-hidden="true"
+              xmlns="http://www.w3.org/2000/svg"
+              width="24"
+              height="24"
+              fill="none"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke="currentColor"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="2"
+                d="M5 11.917 9.724 16.5 19 7.5"
+              />
+            </svg>
+            <p className="text-base sm:text-lg text-gray-700 dark:text-gray-300">
+              Time management
+            </p>
+          </span>
+        </span>
       </div>
     </>
   );
