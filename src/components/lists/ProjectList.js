@@ -8,7 +8,7 @@ function ProjectList() {
       webstack: "Firebase, NextJs",
       wwwlink: "https://ffeedbackpro.vercel.app",
       description:
-        "Create and share feedback forms instantly to connect with your customers, team or community."
+        "A web app for creating and sharing feedback forms, built with Next.js and Firebase for real-time data and authentication."
       },
       {
       name: "PLM-notes",
@@ -28,14 +28,14 @@ function ProjectList() {
       webstack: "Mongo, Express, React, NodeJs",
       wwwlink: "https://todo-app-henna-two.vercel.app/",
       description:
-        "My Todo list app has a login and signup page, can allow users create todos, edit and delete todos as well as update totos. It also allows users to complete todos and shows completed todos and ones which are yet to be completed. It's connected to a mongo database and performs all the basic CRUD operations of a fullstack app.",
+        "A full-stack task management app with user authentication and CRUD operations. Built login/signup and todo tracking with React, Node.js, Express, and MongoDB. Added JWT for secure access.",
     },
     {
       name: "POS System",
       webstack: "React, Redux",
       wwwlink: "https://pos-system-iota.vercel.app/",
       description:
-        "My POS system webapp is a front end application built with React and works with the implementation of the redux toolkit and how data is stored, accessed and modified by different components of the app.",
+        "A front-end web app for point-of-sale operations, using React and Redux for state management. Implemented data storage and modification across components for a seamless user experience.",
     },
     {
       name: "GalopePetrol Website",
@@ -48,7 +48,7 @@ function ProjectList() {
       name: "Greenimee Ghana Limited",
       webstack: "Next.js",
       wwwlink: "https://greenimee.com",
-      description: "This is the official website of Greenimee Ghana Limited.",
+      description: "Official website for Greenimee Ghana Limited, built with Next.js for a responsive, SEO-optimized experience. Focused on performance and user engagement.",
     },
     {
       name: "TampaCar Services",
@@ -85,7 +85,7 @@ function ProjectList() {
             href={pro.wwwlink}
             className="text-blue-900 text-sm sm:text-base lg:text-sm ml-0 sm:ml-auto dark:text-blue-400"
           >
-            Visit Link
+            Live demo
           </a>
         </span>
         <p className="text-gray-500 text-xl sm:text-lg lg:text-xl dark:text-gray-500">
